@@ -1,25 +1,54 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "你好，端午"
 date:   2017-05-30 22:13:11 +0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+中午。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+一个粽子把我叫到客厅。
 
-Jekyll also offers powerful support for code snippets:
+「你来。」它说。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+「请坐到沙发上。我有重要的事情和你说。」
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+「我要走了。」 一个粽子说。站在我左侧，双前手叉腰。
+
+「出远门，去寻找自己。」
+
+「我必须走了！」  它说， 「我想了好久，必须走了。」
+
+「必须出门，去寻找自我， 进行灵魂认知的旅程。」
+
+「不，不能再等了。」
+
+我说，这样啊。不过今天是端午。
+
+没有抬头，
+
+把粽子按在茶几上
+
+解开它的腰带
+
+漏出雪白的香肩，
+
+「你要干什么！」一个粽子慌了，喊道
+
+「哎哟老张！你干什么老张？」
+
+「你干什么老张？别闹了老张，快放手！」
+
+我一直没吭声，继续剥开它绿色的外衣
+
+上面还带着植物的清香
+
+一个粽子双前手环抱，后腿们弯曲
+
+缩成一团，
+
+「我错了，我再也不要寻找自我了，只要你把衣服还给我。」
+
+我没有理它，
+
+一口咬了下去，
