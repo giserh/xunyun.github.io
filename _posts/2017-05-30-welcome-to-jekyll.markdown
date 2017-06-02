@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "你好，端午"
-date:   2017-05-30 22:13:11 +0800
-categories: jekyll update
+title: '你好，端午'
+subtitle: '第一篇博文'
+date: 2017-05-30
+categories: 
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
+tags: 记录
 ---
 中午。
 
