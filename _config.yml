@@ -12,7 +12,7 @@ nav:
 # Author 配置博主信息
 author: '张高峰'
 nickname: '询允/小黑'
-bio: '伤心的小黑，孤独的小黑'
+bio: '孤独的小黑'
 avatar: 'assets/img/profile.jpg'
 
 # Comments
@@ -20,7 +20,7 @@ disqus: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+social-share-items: ['wechat', 'weibo', 'douban']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
@@ -30,10 +30,8 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: weibo, zhihu, twitter, instagrame, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  weibo: '//weibo.com/mae_301u'
+  github: '//github.com/xunyun'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar

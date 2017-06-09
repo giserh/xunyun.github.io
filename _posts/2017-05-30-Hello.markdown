@@ -4,7 +4,7 @@ title: '你好，端午'
 subtitle: '第一篇博文'
 date: 2017-05-30
 categories: 
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
+cover: 'http://openmindclub.qiniudn.com/omzl/blog001.jpeg'
 tags: 记录
 ---
 中午。
@@ -44,7 +44,7 @@ tags: 记录
 
 我一直没吭声，继续剥开它绿色的外衣
 
-上面还带着植物的清香
+还带着植物的清香
 
 一个粽子双前手环抱，后腿们弯曲
 
