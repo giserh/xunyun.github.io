@@ -4,7 +4,7 @@ title: '自然的写作'
 subtitle: '不像说话和观看万物，写作是一件不自然的事情。'
 date: 2017-03-17
 categories: 
-cover:
+cover: 'http://openmindclub.qiniudn.com/omzl/20170613window.jpeg'
 tags: 旧文
 ---
 
