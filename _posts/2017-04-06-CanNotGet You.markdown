@@ -4,7 +4,7 @@ title: '得不到你'
 subtitle: '妻子滑动河水，情谊泥沙俱下'
 date: 2017-04-06
 categories: 
-cover:
+cover: 'http://openmindclub.qiniudn.com/omzl/20170615blog.jpeg'
 tags: 旧文
 ---
 
